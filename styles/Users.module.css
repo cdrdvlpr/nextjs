@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+}
+.single {
+  padding: 5px 20px;
+  background: #fff;
+  display: block;
+  margin: 20px 10px;
+  border-left: 8px solid #fff;
+  width: 100%;
+  transition: border-left 0.1s linear;
+}
+.single:hover {
+  border-left: 8px solid #4979ff;
+}
